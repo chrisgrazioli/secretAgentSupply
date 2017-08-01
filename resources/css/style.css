@@ -101,12 +101,11 @@ footer{
   height:5rem;
   background-color: black;
   color: white;
-}
-footer .container{
-  display:flex;
-  justify-content: flex-start;
-  align-items: center;
+  line-height: 80px;
 }
 @media only screen and (max-width:1024px){
+
+}
+@media only screen and (max-width:470px){
 
 }
